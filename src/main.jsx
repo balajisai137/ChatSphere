@@ -9,7 +9,7 @@ import {
 import App from "./App";
 
 import { AuthProvider }
-  from "./Context/AuthContext";
+  from "./context/AuthContext";
 
 import "./index.css";
 
