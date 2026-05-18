@@ -23,7 +23,7 @@ import { LogOut } from "lucide-react";
 import { auth, db } from "../../firebase/config";
 
 import { AuthContext }
-    from "../../context/AuthContext";
+    from "../../tempContext/AuthContext";
 
 const Sidebar = ({
     selectedUser,
