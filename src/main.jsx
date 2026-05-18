@@ -8,9 +8,8 @@ import {
 
 import App from "./App";
 
-import {
-  AuthProvider,
-} from "./context/AuthContext";
+import { AuthProvider }
+  from "./context/AuthContext";
 
 import "./index.css";
 
