@@ -1,4 +1,4 @@
-import AppRoutes from "./tempRoutes/AppRoutes";
+import AppRoutes from "./routes/AppRoutes";
 
 import CursorGlow from "./components/effects/CursorGlow";
 
